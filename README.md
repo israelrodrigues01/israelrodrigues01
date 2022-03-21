@@ -17,11 +17,8 @@
   
 <div align="right"> 
   
-  <p>Conheça mais sobre mim, siga minhas redes sociais</p>
+  <p>Conheça mais sobre mim, siga minhas redes sociais OU entre em contato</p>
   
-  <a href="https://www.youtube.com/c/Aprendaaquitutoriais" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
   <a href="https://www.instagram.com/israel_rodriigues__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -38,6 +35,7 @@
   
 <div>
   <p>Visite meu canal no You Tube (Click na imagem).</p>
-  
+  <a href="https://www.youtube.com/c/Aprendaaquitutoriais" target="_blank">
   <img align="right" src="https://user-images.githubusercontent.com/90703943/158824616-a198e7f3-92c0-4731-aaf6-2f8a0a2169df.svg" height="180em">
+  </a>
 </div>
