@@ -17,7 +17,7 @@
   
 <div align="right"> 
   
-  <p>Conheça mais sobre mim, siga minhas redes sociais OU entre em contato</p>
+  <p>Conheça mais sobre mim, siga minhas redes sociais ou entre em contato</p>
   
   <a href="https://www.instagram.com/israel_rodriigues__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
