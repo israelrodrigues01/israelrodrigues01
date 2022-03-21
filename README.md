@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Israel Rodrigues.
+👋 Olá, sou o Israel Rodrigues, tenho 18 anos,Estou iniciando minha carreira em Front-End, tenho muita vontade de aprender e ensinar meus conhecimentos, como já faço com o meu canal no You Tube (Aprenda Aqui), onde ensino o básico de HTML, CSS e JS para pessoas que querem saber um pouco sobre a área.
 
 <div align="center">
   <a href="https://github.com/israelrodrigues01">
