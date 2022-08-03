@@ -38,9 +38,6 @@ Olá! Sou o Israel Rodrigues, tenho 18 anos, estou iniciando minha carreira em F
   <a href="https://www.youtube.com/c/Aprendaaquitutoriais" target="_blank">
   <img align="right" src="https://user-images.githubusercontent.com/90703943/158824616-a198e7f3-92c0-4731-aaf6-2f8a0a2169df.svg" height="180em">
   </a>
-</div>
   
-  ##
-  <div>
-    ![Snake animation](https://github.com/israelrodrigues01/israelrodrigues01/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  ![Snake animation](https://github.com/israelrodrigues01/israelrodrigues01/blob/output/github-contribution-grid-snake.svg)
+</div>
