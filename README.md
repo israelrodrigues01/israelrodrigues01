@@ -7,17 +7,18 @@ Olá! Sou o Israel Rodrigues, tenho 18 anos, estou iniciando minha carreira em F
 </div>
   
   
-<div style="display: inline_block" align="right"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Israel-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Israel-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Israel-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Israel-REACTJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Israel-SASS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Israel-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
   ##
   
-<div align="right"> 
+<div align="center"> 
   
   <p>Conheça mais sobre mim, siga minhas redes sociais ou entre em contato</p>
   
